@@ -1,7 +1,8 @@
 {
-  "name": {
-    "first": "rohith",
-    "last": "adluri",
-    "language": "javascript"
+  "outerkey": {
+    "innerkey": "innervalue",
+    "innerkey2": {
+      "appname": "easyJson"
+    }
   }
 }
